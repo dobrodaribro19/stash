@@ -13,7 +13,6 @@ github.com/99designs/gqlgen/graphql/handler
 github.com/99designs/gqlgen/graphql/handler/extension
 github.com/99designs/gqlgen/graphql/handler/lru
 github.com/99designs/gqlgen/graphql/handler/transport
-github.com/99designs/gqlgen/graphql/introspection
 github.com/99designs/gqlgen/graphql/playground
 github.com/99designs/gqlgen/internal/code
 github.com/99designs/gqlgen/internal/imports
@@ -256,8 +255,6 @@ github.com/mailru/easyjson
 github.com/mailru/easyjson/buffer
 github.com/mailru/easyjson/jlexer
 github.com/mailru/easyjson/jwriter
-# github.com/matryer/moq v0.2.7
-## explicit; go 1.14
 # github.com/mattn/go-colorable v0.1.13
 ## explicit; go 1.15
 github.com/mattn/go-colorable
@@ -423,7 +420,7 @@ go.uber.org/atomic
 golang.org/x/crypto/bcrypt
 golang.org/x/crypto/blowfish
 golang.org/x/crypto/ssh/terminal
-# golang.org/x/image v0.1.0
+# golang.org/x/image v0.5.0
 ## explicit; go 1.12
 golang.org/x/image/bmp
 golang.org/x/image/ccitt
@@ -461,7 +458,7 @@ golang.org/x/sys/windows/svc
 # golang.org/x/term v0.1.0
 ## explicit; go 1.17
 golang.org/x/term
-# golang.org/x/text v0.4.0
+# golang.org/x/text v0.7.0
 ## explicit; go 1.17
 golang.org/x/text/cases
 golang.org/x/text/collate
