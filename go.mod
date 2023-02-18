@@ -36,10 +36,10 @@ require (
 	github.com/vektra/mockery/v2 v2.10.0
 	golang.org/x/crypto v0.1.0
 	golang.org/x/image v0.1.0
-	golang.org/x/net v0.1.0
-	golang.org/x/sys v0.1.0
-	golang.org/x/term v0.1.0
-	golang.org/x/text v0.4.0
+	golang.org/x/net v0.7.0
+	golang.org/x/sys v0.5.0
+	golang.org/x/term v0.5.0
+	golang.org/x/text v0.7.0
 	golang.org/x/tools v0.1.12 // indirect
 	gopkg.in/sourcemap.v1 v1.0.5 // indirect
 	gopkg.in/yaml.v2 v2.4.0
@@ -57,7 +57,6 @@ require (
 	github.com/spf13/cast v1.5.0
 	github.com/vearutop/statigz v1.1.8
 	github.com/vektah/dataloaden v0.3.0
-	github.com/vektah/gqlparser/v2 v2.5.1
 	gopkg.in/guregu/null.v4 v4.0.0
 )
 
@@ -103,6 +102,7 @@ require (
 	github.com/subosito/gotenv v1.4.1 // indirect
 	github.com/tidwall/match v1.1.1 // indirect
 	github.com/urfave/cli/v2 v2.8.1 // indirect
+	github.com/vektah/gqlparser/v2 v2.5.1 // indirect
 	github.com/xrash/smetrics v0.0.0-20201216005158-039620a65673 // indirect
 	go.uber.org/atomic v1.10.0 // indirect
 	golang.org/x/mod v0.6.0-dev.0.20220419223038-86c51ed26bb4 // indirect
